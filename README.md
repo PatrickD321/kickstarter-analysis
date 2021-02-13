@@ -1,3 +1,3 @@
 # Kickstarting with Excel
-## Overvie of Project
-conducting data analysis on Kickstarter to undercover trends 
+## Overview of Project
+This reort conducting data analysis on Kickstarter to undercover trends 
