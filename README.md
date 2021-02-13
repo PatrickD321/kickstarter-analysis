@@ -10,3 +10,7 @@ The month of May prove by far the best time for Louise to have her theater produ
 ### Analysis of Outcomes Based on Goals
 Goals milestone are based on the aount of funding as well contributers to each production. Between the dollar range of less than one thousand (1000) and forty five thousand (45000) a signifcant portiom of Louise intention was achieved. There exist some amount of lost in this range but much more significant reduction occur at values above the forty five thousand (45000) threshold.
 ### Challenges and Difficulties Encountered
+Leading up the Hoildays season November thur December shows a dificult period for theater productions. Far less contributers get involve and most of Louise goals are not meet Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered
+## Results
+At the begining of the month of April, interest in theater productions are on the rise. This is the opportune to inout more campaign to compensate for the slow period during of the year. For the summer time, although there is a decline in Louise's goals, the significant difference between success and failure, better marketing strategy can be employed to get more people interested in theater since during this period there are much more competion from other activies.
+More realistic goals are needed for the campaigns, at the target of twenty thousand (20000), the productions at that point produce more unsuccessful goals. 
