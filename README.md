@@ -14,3 +14,5 @@ Leading up the Hoildays season November thur December shows a dificult period fo
 ## Results
 At the begining of the month of April, interest in theater productions are on the rise. This is the opportune to inout more campaign to compensate for the slow period during of the year. For the summer time, although there is a decline in Louise's goals, the significant difference between success and failure, better marketing strategy can be employed to get more people interested in theater since during this period there are much more competion from other activies.
 More realistic goals are needed for the campaigns, at the target of twenty thousand (20000), the productions at that point produce more unsuccessful goals. 
+- what production did very poorly
+- what productions came close to there targets
