@@ -1,3 +1,3 @@
 # Kickstarting with Excel
 ## Overview of Project
-This reort conducting data analysis on Kickstarter to undercover trends 
+This reort will indicaate how well the different theater campaigns performed in relation to the their launch dates and their funding goals. 
