@@ -8,4 +8,4 @@ One of main my main challenges was to reacquaint my limited experience using Mic
 ### Analysis of Outcomes Based on Launch Date
 The month of May prove by far the best time for Louise to have her theater productions with December being the worst. December promotioms shows more unsuccesful campaigns 
 ### Analysis of Outcomes Based on Goals
-Goals milestone are based on the aount of funding as well contributers to each production. Between the dollar range of less than one thousand (1000) and forty five thousand (45000) a signifcant portiom of Louise intention was achieved. There exist some amount of lost in this range but much more significant reduction occur at values above the forty five thousand threshold.
+Goals milestone are based on the aount of funding as well contributers to each production. Between the dollar range of less than one thousand (1000) and forty five thousand (45000) a signifcant portiom of Louise intention was achieved. There exist some amount of lost in this range but much more significant reduction occur at values above the forty five thousand (45000) threshold.
