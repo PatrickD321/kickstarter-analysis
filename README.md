@@ -18,7 +18,7 @@ Leading up the Hoildays season November thru December shows a dificult period fo
 #### What can you conclude about the Outcomes based on Goals?
 - More realistic goals are needed for the campaigns, at the target of twenty thousand (20000), the productions at that point produce more unsuccessful goals. 
 #### What are some limitations of this dataset?
-- what production did very poorly
+- Live events are not used in the dataset
 #### What are some other possible tables and/or graphs that we could create?
 - A comparison between theater productions and others that did not meet thier goals. 
 - How long each did each production lasted.
