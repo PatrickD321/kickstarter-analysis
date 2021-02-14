@@ -20,4 +20,5 @@ Leading up the Hoildays season November thur December shows a dificult period fo
 #### What are some limitations of this dataset?
 - what production did very poorly
 #### What are some other possible tables and/or graphs that we could create?
-- what productions came close to there targets
+- A comparison between theater productions, which did not meet thier goal to the ones that did. 
+- hat productions came close to there targets
