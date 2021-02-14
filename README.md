@@ -17,5 +17,7 @@ Leading up the Hoildays season November thur December shows a dificult period fo
 - For the summer time, although there is a decline in Louise's goals, a significant difference between success and failure. Better marketing strategies can be employed to get more people to be interested in theater, since during this period there are much more competion from other activies.
 #### What can you conclude about the Outcomes based on Goals?
 - More realistic goals are needed for the campaigns, at the target of twenty thousand (20000), the productions at that point produce more unsuccessful goals. 
+#### What are some limitations of this dataset?
 - what production did very poorly
+#### What are some other possible tables and/or graphs that we could create?
 - what productions came close to there targets
