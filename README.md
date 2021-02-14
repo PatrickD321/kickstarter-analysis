@@ -8,9 +8,9 @@ One of main my main challenges was to reacquaint my limited experience using Mic
 ### Analysis of Outcomes Based on Launch Date
 The month of May prove by far the best time for Louise to have her theater productions with December being the worst. December promotioms shows more unsuccesful campaigns 
 ### Analysis of Outcomes Based on Goals
-Goals milestone are based on the amount of funding as well as contributers to each production. Between the dollar range of less than one thousand (1000) and forty five thousand (45000) a signifcant portiom of Louise intentions was achieved. There exist some amount of lost in this range but much more significant reduction occur at values above the forty five thousand (45000) threshold.
+Goals milestone are based on the amount of funding as well as contributers to each production. Between the dollar range of less than one thousand (1000) and forty five thousand (45000) a signifcant portion of Louise intentions was achieved. There exist some amount of lost in this range but much more significant reduction occur at values above the forty five thousand (45000) threshold.
 ### Challenges and Difficulties Encountered
-Leading up the Hoildays season November thur December shows a dificult period for theater productions. Far less contributers get involve and most of Louise goals are not meet. Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered
+Leading up the Hoildays season November thru December shows a dificult period for theater productions. Far less contributers got involve and most of Louise goals are not meet. Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered
 ## Results
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
 - At the begining of the month of April, interest in theater productions are on the rise. This is an opportune time to input more campaigns to compensate for the slow period during rest of the year. 
@@ -21,4 +21,5 @@ Leading up the Hoildays season November thur December shows a dificult period fo
 - what production did very poorly
 #### What are some other possible tables and/or graphs that we could create?
 - A comparison between theater productions, which did not meet thier goal to the ones that did. 
-- hat productions came close to there targets
+- How long each did each production lasted.
+- The type of campaign that were consistently unsuccessful.
