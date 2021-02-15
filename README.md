@@ -13,13 +13,16 @@ Milestones are based on the amount of funding as well as contributers to each pr
 Leading to the holiday season, November through December showed a difficult period for theater productions. Far less contributers got involved and most of Louise goals are not met. The duration for campaigns that were successful was slightly greater than ones that failed or cancelled. This was used to offset the overall production cost.
 ## Results
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
-- At the begining of the month of April, interest in theater productions increased. This is an opportune time to input more campaigns to compensate for the slow period during the rest of the year. 
-- For the summer time, although there is a decline in Louise's goals, there exist a significant difference between success and failure. Better marketing strategies can be employed to get more people to be interested in theater, since during this period there are much more competion from other activies.
+- At the begining of the month of March, interest in theater productions increased. This is an opportune time to input more campaigns to compensate for the slow period during the rest of the year. 
+- In the month of December the number of successful and failed are the same.
+- More failed evevnts occur in the month from September to October, with no cancelations
 #### What can you conclude about the Outcomes based on Goals?
-- More realistic goals are needed for the campaigns at the target of twenty thousand (20000), the productions at that point produce more unsuccessful goals. 
+- More realistic goals are needed for the campaigns at the target of twenty thousand (20000), the productions at that point produce more unsuccessful goals.
+- For the summer time, although there is a decline in Louise's goals, there exist a significant difference between success and failure. Better marketing strategies can be employed to get more people to be interested in theater, since during this period there are much more competion from other activies.
 #### What are some limitations of this dataset?
+- Comparison between Staff Picks and Spotlight were not analyzed
 - Live events are not used in the dataset
 #### What are some other possible tables and/or graphs that we could create?
 - A comparison between theater productions and others that did not meet thier goals. 
-- How long each did each production lasted.
+- How long each production lasted.
 - The type of campaigns that were consistently unsuccessful.
